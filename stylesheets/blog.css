@@ -1,0 +1,27 @@
+/** {border: 1px dashed black;}*/
+div {
+  width: auto;
+  height: 250px;
+  background-color: blue;
+}
+div h1 {
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+}
+.sechead {color: blue;
+  font-style: italic;
+}
+a {
+  text-decoration: underline;
+  color: green;
+}
+a:hover {
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+}
+p {
+  font-weight: bold;
+}
